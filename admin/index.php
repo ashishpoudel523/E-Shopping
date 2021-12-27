@@ -32,7 +32,7 @@ include "./templates/top.php";
           <tbody id="admin_list">
             <tr>
               <td>1,001</td>
-              <td>Lorem</td>
+              <td>Loremmm</td>
               <td>ipsum</td>
               <td>dolor</td>
               <td>sit</td>
